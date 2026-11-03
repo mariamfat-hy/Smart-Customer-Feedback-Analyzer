@@ -1,0 +1,19 @@
+Department Name,Sentiment,Count
+Bottoms,Negative,317
+Bottoms,Neutral,407
+Bottoms,Positive,2938
+Dresses,Negative,681
+Dresses,Neutral,830
+Dresses,Positive,4634
+Intimate,Negative,147
+Intimate,Neutral,177
+Intimate,Positive,1329
+Jackets,Negative,108
+Jackets,Neutral,90
+Jackets,Positive,804
+Tops,Negative,1096
+Tops,Neutral,1300
+Tops,Positive,7652
+Trend,Negative,21
+Trend,Neutral,19
+Trend,Positive,78
